@@ -2,7 +2,7 @@ README
 ================
 
 
-This repository collect details about data and computational methods developed for the paper "Promoter G-quadruplex folding precedes transcription and is controlled by chromatin".
+This repository collects details about data and computational methods developed for the paper "Promoter G-quadruplex folding precedes transcription and is controlled by chromatin".
 
 DNA G-quadruplexes (G4) and transcription
 =========================================
