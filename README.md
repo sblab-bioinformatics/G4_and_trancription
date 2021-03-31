@@ -9,7 +9,7 @@ DNA G-quadruplexes (G4) and transcription
 
 This study investigates the interplay between DNA G4 and transcription. Data used in this study have been deposited on GEO under the accession [GSE162299](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162299).
 
-K562 cells have been profiled for DNA G4 structures (G4-ChIP-seq) and Pol2 (Pol2-ChIP-seq) occupancy in normoxia. Additionally accessibility have been profiled by ATAC-seq. Cells have been exposed initially to two chemicals (DRB, TPL) respectively and genomics G4s have been profiled. 
+K562 cells have been profiled for DNA G4 structures (G4-ChIP-seq) and Pol2 (Pol2-ChIP-seq) occupancy in normoxia. Additionally accessibility have been profiled by ATAC-seq. Cells have been exposed initially to two chemicals (DRB, TPL) respectively and DNA G4s have been profiled. 
 Next, after explosing cells to hypoxia, G4s, Pol2 and accessibility have been profiled. 
 Finally, pyPDS (a G4-stabilising ligand) has been used in conjunction to hypoxic conditions: in this experimental case (pyPDS, hypoxia) Pol2 and accessibility have been profiled and compared to control cases (no pyPDS - DMSO, normoxia).
 
